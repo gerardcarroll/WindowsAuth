@@ -1,0 +1,5 @@
+2013/09/27-13:16:13.222 1db8 Recovering log #3
+2013/09/27-13:16:13.222 1db8 Level-0 table #5: started
+2013/09/27-13:16:13.227 1db8 Level-0 table #5: 14266 bytes OK
+2013/09/27-13:16:13.230 1db8 Delete type=0 #3
+2013/09/27-13:16:13.230 1db8 Delete type=3 #2
